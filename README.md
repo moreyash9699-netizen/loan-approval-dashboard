@@ -137,7 +137,7 @@ Developed as a Machine Learning internship project.
 
 ---
 
-[Click Here to Use the App](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[Click Here to Use the App]([PASTE_YOUR_STREAMLIT_LINK_HERE](https://loan-approval-dashboard-pjspzknbte7fvgjjwqd9jq.streamlit.app/))
 
 
 
